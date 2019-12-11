@@ -1,5 +1,5 @@
 ---
-description: '작성자: Ariel Estidal / 마지막 수정: 191014'
+description: '작성자: Ariel Estidal / 마지막 수정: 191211'
 ---
 
 # 2. 운송
@@ -102,8 +102,6 @@ Alt + I 를 누른다
 
 마켓 캐릭터의 행어에서 산 물건들을 위와 같이 선택하여 Create Contract 클릭.
 
-![](https://lh3.googleusercontent.com/asjs87BCCW74UnMaIi6xSjnge0peNZ2MW4vf6QKOfo18lcx9XzztPdMB_rYJePMARZNdOBcSwAwv2tmPdNqI36nNGUGK3WPCR9MNMx-DalWwhYhTqaII_gjo05IzmdhKFKjuJ81j)
-
 물건을 넘기는거니까 Item Exchange 체크. 본캐로 넘기는거니까 Private 체크하고 본캐 이름을 적는다. 그 후 Next 클릭.
 
 ![](https://lh3.googleusercontent.com/ohd5HxyNqCZb_mljEanXBZphDawBliVPWWE--v41_QOTCd44REzPXNJ7J5B-FNlAcnIMNp53K1XCjjnpwMWsMqj8R9hMrhJAOtpTaNoB1W3txealR5kgsFpJ8_1Q_a5EGzeGYxLB)
@@ -147,17 +145,17 @@ Alt + I 를 누른다
 
 모두 선택하고 우클릭해서 Create Contract 클릭.
 
-![](https://lh6.googleusercontent.com/L04Yg6MZp9X-Uhu3nTLk0F20HSW715KXqfG5IpysPBPeyjBtOuIU6IxU-CcinjyU917P9mSbt_2YU_TWnX33Ek18BVExuFtaZ5Fflkef5VwyyBodhGfsS-Wn1obKBCZMcqnYU1TH)
+![](../.gitbook/assets/image%20%2866%29.png)
 
-아까랑 같은 창이 뜨지만 이번엔 운송 컨트랙이니까 Courier 체크. 우리 운송맨한테 맡길거니까 Private 체크하고 운송꼽을 저거 그대로 적으면 된다. 그 뒤 Next 클릭.
+아까랑 같은 창이 뜨지만 이번엔 운송 컨트랙이니까 Courier 체크. 우리 운송맨한테 맡길거니까 Private 체크하고 운송꼽을 저거 그대로 dolgay 적으면 된다. 그 뒤 Next 클릭.
 
 아까처럼 물건 목록이 뜨는데 뭐 빼먹은거 없는지만 대충 보고
 
-![](https://lh5.googleusercontent.com/cSl8azAtqj5PP9qDrXaqr1xSGY8tj7fF2CuG8QZ1St9OSuFZVi4H4HiEh8pX6i-z8rgXC1jZNc74HF8QtUPw68nu8qYC4EET6HRkPhf6MKl9adN1g_lxOVJ5kk5dO-QcIeZjCVeK)
+![](../.gitbook/assets/image%20%2856%29.png)
 
-아래쪽에 저 \(2 m³\)부분을 확인한다. 저걸 입방이라고 하는데 물건 부피다. 저거에 따라 운송료가 책정됨. 확인했으면 Next 클릭.
+아래쪽에 저 \(35 m³\)부분을 확인한다. 저걸 입방이라고 하는데 물건 부피다. 저거에 따라 운송료가 책정됨. 확인했으면 Next 클릭.
 
-![](https://lh5.googleusercontent.com/5uRPB5rgMOeT8pj-6dkWQSj6DOWGXf_2P8ahZvBcs7o1s3XCd-MPNq8bNJv6NqNosiAG10QxR4F0wvdErrxkphgdquJJXBG5RnpVLN_0dhGzqAoyvSupaQvVeOYeYtZv8d9osSgY)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 이런 창이 뜨는데 위에서부터
 
@@ -172,7 +170,7 @@ Alt + I 를 누른다
 
 받을 곳은 지금은 시시드 홈으로 보내보는데 본인이 쓸 곳으로 보내면 된다.
 
-운송비는 지타&lt;-&gt;시시드의 경우 입방당 700 ISK고 아까 2입방이었으니까 1400 ISK
+운송비는 지타&lt;-&gt;시시드의 경우 입방당 700 ISK고 아까 35입방이었으니까 24500 ISK
 
 퍼블릭 컨트랙 걸 때는 담보를 최소 물건값만큼 걸지만 이건 내부 컨트랙이니까 담보는 0으로 둔다. 담보 걸면 운송 안해줌.
 
@@ -180,9 +178,9 @@ Alt + I 를 누른다
 
 다 입력했고 확인했다면 Next 클릭.
 
-![](https://lh3.googleusercontent.com/mZnQq2mHLkLGmBTze16RcDa97-FuIl2an3mEdgnb3FRHh99MQJAupmnyuhgObxmJBSMxDON8aAK-U9VW7lFAyApso0i1z30SRQkiIxUU9JUwhyBg_hBRL-2jaQb4P_4rgYiMCXVR)
+![](../.gitbook/assets/image%20%2887%29.png)
 
-이런 확인창이 뜨는데 Reward 대신 Collateral 에 금액이 입력되어있는지, BINSNEST에게 제대로 걸었는지, 이상한 장소로 가게 걸진 않았는지 확인 후 Finish 클릭.
+이런 확인창이 뜨는데 제대로 Collateral이 아닌 Reward에 금액이 입력되어있는지, dolgay에게 제대로 걸었는지, 이상한 장소로 걸진 않았는지 확인 후 Finish 클릭.
 
 그러면 이제 운송 컨트랙이 걸린거니까 물건이 도착할 때까지 가만히 기다리면 된다.
 

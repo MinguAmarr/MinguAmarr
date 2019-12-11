@@ -36,7 +36,7 @@ DGDragon 개인이 사비로 주는 SRP.
 
 ![](../.gitbook/assets/image%20%2847%29.png)
 
-![](../.gitbook/assets/image%20%2895%29.png)
+![](../.gitbook/assets/image%20%2899%29.png)
 
 {% hint style="danger" %}
 아래 문서를 반드시 읽어 보고 메일을 보낼것.
