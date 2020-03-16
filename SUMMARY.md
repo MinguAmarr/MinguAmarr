@@ -29,7 +29,7 @@
 * [IV. 수익 활동](iv/README.md)
   * [1. 현질](iv/1..md)
   * [2. 랫질 -Quizz Ayat](iv/8..md)
-  * [3. 알파계정 랫질 -Darkbanising II](iv/3.-darkbanising-ii.md)
+  * [3. 알파계정 랫질 -Jebediah Monaliz](iv/3.-darkbanising-ii.md)
   * [4. PI](iv/3.-pi.md)
   * [5. 리액션](iv/5.-1.md)
   * [7. 마이닝](iv/4.-1.md)

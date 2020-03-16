@@ -56,5 +56,5 @@ description: '작성자: Mingu Amarr / 마지막 수정: 200316'
 * Tea Lemon
 * Pirami Beddelver
 * Veishe
-* Darkbanising II
+* Jebediah Monaliz
 
