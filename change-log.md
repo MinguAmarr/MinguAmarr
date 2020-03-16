@@ -5,6 +5,7 @@
 **Added**
 
 * 뉴비 함선 지원
+* 알파계정 랫질 -Darkbanising II
 
 **Changed**
 
