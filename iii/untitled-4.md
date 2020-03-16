@@ -1,5 +1,5 @@
 ---
-description: '작성자: Ariel Estidal / 마지막 수정: 191222'
+description: '작성자: Ariel Estidal / 마지막 수정: 200316'
 ---
 
 # 2. 운송

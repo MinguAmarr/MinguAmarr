@@ -1,5 +1,5 @@
 ---
-description: '작성자: Mingu Amarr / 마지막 수정: 200308'
+description: '작성자: Mingu Amarr / 마지막 수정: 200316'
 ---
 
 # Welcome to Sons of Black Rise
@@ -56,4 +56,5 @@ description: '작성자: Mingu Amarr / 마지막 수정: 200308'
 * Tea Lemon
 * Pirami Beddelver
 * Veishe
+* Darkbanising II
 
