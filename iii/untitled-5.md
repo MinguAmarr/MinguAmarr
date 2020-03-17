@@ -34,9 +34,9 @@ DGDragon 개인이 사비로 주는 SRP.
 
 신청 양식 예시
 
-![](../.gitbook/assets/image%20%2847%29.png)
+![](../.gitbook/assets/image%20%2848%29.png)
 
-![](../.gitbook/assets/image%20%2899%29.png)
+![](../.gitbook/assets/image%20%28102%29.png)
 
 {% hint style="danger" %}
 아래 문서를 반드시 읽어 보고 메일을 보낼것.
