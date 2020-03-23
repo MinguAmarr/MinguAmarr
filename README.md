@@ -35,7 +35,6 @@ description: '작성자: Mingu Amarr / 마지막 수정: 200317'
 * II. 플릿 기초
 * III. 얼라이언스 서비스
 * IV. 수익 활동
-  * 2. 밀리샤
 * V. 스킬
   * 1. Injector / Implant / Remap
   * 2. 뉴비 스킬 플랜
@@ -57,4 +56,5 @@ description: '작성자: Mingu Amarr / 마지막 수정: 200317'
 * Pirami Beddelver
 * Veishe
 * Jebediah Monaliz
+* Waterproof KJH
 

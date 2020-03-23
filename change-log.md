@@ -1,5 +1,18 @@
 # Change Log
 
+### **1.0.39 - 2020-03-23**
+
+**Added**
+
+* 마이닝
+
+**Changed**
+
+* 뉴비 함선 지원
+  * 수령지 정보 추가
+* Welcome to Sons of Black Rise
+  * 필독리스트에서 밀리샤 삭제
+
 ### **1.0.38 - 2020-03-19**
 
 **Changed**
