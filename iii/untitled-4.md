@@ -151,17 +151,17 @@ Alt + I 를 누른다
 
 모두 선택하고 우클릭해서 Create Contract 클릭.
 
-![](../.gitbook/assets/image%20%2868%29.png)
+![](../.gitbook/assets/image%20%2866%29.png)
 
 아까랑 같은 창이 뜨지만 이번엔 운송 컨트랙이니까 Courier\(운송\) 체크. 우리 운송맨한테 맡길거니까 Private\(비공개\) 체크하고 운송꼽을 저거 그대로 dolgay 적으면 된다. 그 뒤 Next\(다음\) 클릭.
 
 아까처럼 물건 목록이 뜨는데 뭐 빼먹은거 없는지만 대충 보고
 
-![](../.gitbook/assets/image%20%2858%29.png)
+![](../.gitbook/assets/image%20%2856%29%20%281%29.png)
 
 아래쪽에 저 \(35 m³\)부분을 확인한다. 저걸 입방이라고 하는데 물건 부피다. 저거에 따라 운송료가 책정됨. 확인했으면 Next\(다음\) 클릭.
 
-![](../.gitbook/assets/image%20%2851%29.png)
+![](../.gitbook/assets/image%20%2850%29.png)
 
 이런 창이 뜨는데 위에서부터
 
@@ -186,7 +186,7 @@ Alt + I 를 누른다
 
 다 입력했고 확인했다면 Next\(다음\) 클릭.
 
-![](../.gitbook/assets/image%20%2890%29.png)
+![](../.gitbook/assets/image%20%2887%29.png)
 
 이런 확인창이 뜨는데 제대로 Collateral\(담보\)이 아닌 Reward\(보상\)에 금액이 입력되어있는지, dolgay에게 제대로 걸었는지, 이상한 장소로 걸진 않았는지 확인 후 Finish\(완료\) 클릭.
 
