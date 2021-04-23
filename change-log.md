@@ -6,6 +6,8 @@
 
 * 뉴비 스킬 플랜
   * Main DPS Machariel에서 Cerberus로
+* Home Station
+  * Siseide - Errestantinople에서 S-EVIQ - Ume Shu로
 
 ### **1.0.40 - 2020-10-21**
 
