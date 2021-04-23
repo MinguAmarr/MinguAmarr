@@ -1,5 +1,5 @@
 ---
-description: '작성자: Mingu Amarr / 마지막 수정: 200317'
+description: '작성자: Mingu Amarr / 마지막 수정: 210423'
 ---
 
 # Welcome to Sons of Black Rise
