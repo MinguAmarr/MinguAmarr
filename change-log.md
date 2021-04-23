@@ -1,5 +1,12 @@
 # Change Log
 
+### **1.0.41 - 2021-04-23**
+
+**Changed**
+
+* 뉴비 스킬 플랜
+  * Main DPS Machariel에서 Cerberus로
+
 ### **1.0.40 - 2020-10-21**
 
 **Changed**
