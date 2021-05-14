@@ -1,5 +1,12 @@
 # Change Log
 
+### **1.0.42 - 2021-05-14**
+
+**Changed**
+
+* Home Station
+  * S-EVIQ - Ume Shud에서 G-ME2K VIII - Moon 3 - True Power Mining Outpost
+
 ### **1.0.41 - 2021-04-23**
 
 **Changed**
